@@ -1,0 +1,8 @@
+Генератор:
+https://drive.google.com/file/d/1s20mpQmnxUMhc7LeZVOP-wn1nzXkCEld/view?usp=sharing
+
+Дискриминатор:
+https://drive.google.com/file/d/1U5Pybm_rKUD4Tx408jSLOgMDXCPAiHYD/view?usp=sharing
+
+Архив с датасетом:
+https://drive.google.com/file/d/1kytMCaBtrKwjx7-IN3IjfQ-4nqV5HWIL/view?usp=sharing
