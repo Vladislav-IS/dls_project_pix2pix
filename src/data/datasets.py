@@ -87,6 +87,6 @@ train_loader = DataLoader(train_ds, shuffle=True, batch_size=batch_size)
 val_loader = DataLoader(val_ds, shuffle=False, batch_size=batch_size)
 test_loader = DataLoader(test_ds, shuffle=False, batch_size=batch_size)
 
-#random_sample = np.random.randint(100)
-#facade, segment = train_ds[random_sample]
-#view_sample(facade, segment)
+# random_sample = np.random.randint(100)
+# facade, segment = train_ds[random_sample]
+# view_sample(facade, segment)
